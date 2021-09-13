@@ -37,3 +37,6 @@ D:\mes project\gestionmateriel\gestionmateriel\obj\Debug\gestionmateriel.Propert
 D:\mes project\gestionmateriel\gestionmateriel\obj\Debug\gestionmateriel.csproj.GenerateResource.Cache
 D:\mes project\gestionmateriel\gestionmateriel\obj\Debug\gestionmateriel.exe
 D:\mes project\gestionmateriel\gestionmateriel\obj\Debug\gestionmateriel.pdb
+D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\bin\Debug\gestionmateriel.exe.config
+D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\obj\Debug\gestionmateriel.exe
+D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\obj\Debug\gestionmateriel.pdb
