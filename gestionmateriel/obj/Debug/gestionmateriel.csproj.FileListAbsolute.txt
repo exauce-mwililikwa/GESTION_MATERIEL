@@ -40,3 +40,9 @@ D:\mes project\gestionmateriel\gestionmateriel\obj\Debug\gestionmateriel.pdb
 D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\bin\Debug\gestionmateriel.exe.config
 D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\obj\Debug\gestionmateriel.exe
 D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\obj\Debug\gestionmateriel.pdb
+D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\bin\Debug\gestionmateriel.exe
+D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\bin\Debug\gestionmateriel.pdb
+D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\obj\Debug\gestionmateriel.csprojResolveAssemblyReference.cache
+D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\obj\Debug\gestionmateriel.Form1.resources
+D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\obj\Debug\gestionmateriel.Properties.Resources.resources
+D:\MES PROJET\GESTION_MATERIEL\gestionmateriel\obj\Debug\gestionmateriel.csproj.GenerateResource.Cache
